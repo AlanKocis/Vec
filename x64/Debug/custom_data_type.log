@@ -1,0 +1,5 @@
+﻿  custom_data_type.cpp
+  Vec.cpp
+  Generating Code...
+C:\Users\alank\source\repos\custom_data_type\Vec.cpp(20): warning C4715: 'Vec::get': not all control paths return a value
+  custom_data_type.vcxproj -> C:\Users\alank\source\repos\custom_data_type\x64\Debug\custom_data_type.exe
